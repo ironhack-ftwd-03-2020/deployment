@@ -13,9 +13,10 @@ $ cd projector
 $ npx create-react-app client
 ```
 
-### Then we also want to remove git from the client folder - otherwise you will get an error later if you use git in your project
+### Then we also want to remove git from within the client folder - otherwise you will get an error later if you use git in your project
 
 ```bash
+# in: projector/client
 $ rm -rf .git
 ```
 

@@ -15,4 +15,4 @@ $ npx create-react-app client
 
 Now we have our basic project structure 
 
-Happy hacking :heart
+Happy hacking :Heart

@@ -13,6 +13,12 @@ $ cd projector
 $ npx create-react-app client
 ```
 
+### Then we also want to remove git from the client folder - otherwise you will get an error later if you use git in your project
+
+```bash
+$ rm -rf .git
+```
+
 Now we have our basic project structure 
 
 Happy hacking 💙
